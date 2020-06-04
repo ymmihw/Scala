@@ -19,4 +19,10 @@ class UtilsTest extends Matchers {
   def whenFactorialCalledWith6_then720 = {
     Assert.assertEquals(720, new Utils().factorial(6))
   }
+
+  @Test
+  def whenRangeSumCalledWith1And10_then5 = {
+    Assert.assertEquals(55, new Utils().rangeSum(1, 10))
+  }
+
 }

@@ -26,4 +26,12 @@ class Utils {
     } while (i <= a)
     result
   }
+
+  def rangeSum(a: Int, b: Int) = {
+    var sum = 0
+    for (i <- a to b) {
+      sum += i
+    }
+    sum
+  }
 }
