@@ -16,4 +16,14 @@ class Utils {
     }
     a
   }
+
+  def factorial(a: Int): Int = {
+    var result = 1
+    var i = 1
+    do {
+      result *= i
+      i = i + 1
+    } while (i <= a)
+    result
+  }
 }

@@ -15,4 +15,8 @@ class UtilsTest extends Matchers {
     Assert.assertEquals(3, new Utils().gcdIter(15, 27))
   }
 
+  @Test
+  def whenFactorialCalledWith6_then720 = {
+    Assert.assertEquals(720, new Utils().factorial(6))
+  }
 }
