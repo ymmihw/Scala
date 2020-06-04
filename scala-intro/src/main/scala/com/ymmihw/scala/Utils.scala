@@ -34,4 +34,14 @@ class Utils {
     }
     sum
   }
+
+  def power(x: Int, y: Int): Int = {
+    def powNested(i: Int,
+                  accumulator: Int): Int = {
+      if (i <= 0) accumulator
+      else powNested(i - 1, x * accumulator)
+    }
+
+    powNested(y, 1)
+  }
 }

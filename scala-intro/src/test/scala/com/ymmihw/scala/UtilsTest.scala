@@ -25,4 +25,9 @@ class UtilsTest extends Matchers {
     Assert.assertEquals(55, new Utils().rangeSum(1, 10))
   }
 
+  @Test
+  def whenPowerCalledWith2And3_then8 = {
+    Assert.assertEquals(8, new Utils().power(2, 3))
+  }
+
 }
