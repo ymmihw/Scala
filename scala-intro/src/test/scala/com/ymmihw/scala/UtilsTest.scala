@@ -9,4 +9,10 @@ class UtilsTest extends Matchers {
   def whenGcdCalledWith15and27_then3 = {
     Assert.assertEquals(3, new Utils().gcd(15, 27))
   }
+
+  @Test
+  def whenGcdIterCalledWith15and27_then3 = {
+    Assert.assertEquals(3, new Utils().gcdIter(15, 27))
+  }
+
 }
