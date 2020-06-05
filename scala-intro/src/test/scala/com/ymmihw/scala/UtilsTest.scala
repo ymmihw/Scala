@@ -30,4 +30,24 @@ class UtilsTest extends Matchers {
     Assert.assertEquals(8, new Utils().power(2, 3))
   }
 
+  @Test
+  def whenCalledWithSumAndSquare_thenCorrectValue = {
+    def square(x: Int) = x * x
+
+    def sum(x: Int, y: Int) = x + y
+
+    def sumSquares(a: Int, b: Int) =
+      new Utils().mapReduce(sum, 0, square, a, b)
+
+    Assert.assertEquals(385, sumSquares(1, 10))
+  }
+
+  @Test
+  def whenCalledWithAnonymousFunctions_thenCorrectValue = {
+    def sumSquares(a: Int, b: Int) =
+      new Utils().mapReduce((x, y) => x + y, 0, x => x * x, a, b)
+
+    Assert.assertEquals(385, sumSquares(1, 10))
+  }
+
 }

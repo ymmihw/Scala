@@ -27,7 +27,7 @@ class Utils {
     result
   }
 
-  def rangeSum(a: Int, b: Int) = {
+  def rangeSum(a: Int, b: Int): Int = {
     var sum = 0
     for (i <- a to b) {
       sum += i
@@ -43,5 +43,20 @@ class Utils {
     }
 
     powNested(y, 1)
+  }
+
+  def mapReduce(r: (Int, Int) => Int,
+                i: Int,
+                m: Int => Int,
+                a: Int, b: Int) = {
+    def iter(a: Int, result: Int): Int = {
+      if (a > b) {
+        result
+      } else {
+        iter(a + 1, r(m(a), result))
+      }
+    }
+
+    iter(a, i)
   }
 }
