@@ -4,31 +4,31 @@ import org.junit.Assert.assertEquals
 import org.junit.{Assert, Test}
 import org.scalatest.matchers.should.Matchers
 
-class UtilsTest extends Matchers {
+class MethodsTest extends Matchers {
 
   @Test
   def whenGcdCalledWith15and27_then3 = {
-    assertEquals(3, new Utils().gcd(15, 27))
+    assertEquals(3, Methods.gcd(15, 27))
   }
 
   @Test
   def whenGcdIterCalledWith15and27_then3 = {
-    assertEquals(3, new Utils().gcdIter(15, 27))
+    assertEquals(3, Methods.gcdIter(15, 27))
   }
 
   @Test
   def whenFactorialCalledWith6_then720 = {
-    assertEquals(720, new Utils().factorial(6))
+    assertEquals(720, Methods.factorial(6))
   }
 
   @Test
   def whenRangeSumCalledWith1And10_then5 = {
-    assertEquals(55, new Utils().rangeSum(1, 10))
+    assertEquals(55, Methods.rangeSum(1, 10))
   }
 
   @Test
   def whenPowerCalledWith2And3_then8 = {
-    assertEquals(8, new Utils().power(2, 3))
+    assertEquals(8, Methods.power(2, 3))
   }
 
   @Test
@@ -38,7 +38,7 @@ class UtilsTest extends Matchers {
     def sum(x: Int, y: Int) = x + y
 
     def sumSquares(a: Int, b: Int) =
-      new Utils().mapReduce(sum, 0, square, a, b)
+      Methods.mapReduce(sum, 0, square, a, b)
 
     assertEquals(385, sumSquares(1, 10))
   }
@@ -46,7 +46,7 @@ class UtilsTest extends Matchers {
   @Test
   def whenCalledWithAnonymousFunctions_thenCorrectValue = {
     def sumSquares(a: Int, b: Int) =
-      new Utils().mapReduce((x, y) => x + y, 0, x => x * x, a, b)
+      Methods.mapReduce((x, y) => x + y, 0, x => x * x, a, b)
 
     assertEquals(385, sumSquares(1, 10))
   }
