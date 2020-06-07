@@ -1,7 +1,8 @@
 package com.ymmihw.scala
 
-import org.scalatest.wordspec.AnyWordSpec
-import org.scalatest.matchers.should.Matchers;
+import org.junit.Test
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec;
 
 class TuplesUnitTest extends AnyWordSpec with Matchers {
   val tuple = ("Joe", 34)
