@@ -24,5 +24,6 @@
     <modules>
         <module>scala-intro</module>
         <module>scala-higher-order-function</module>
+        <module>scala-tuples</module>
     </modules>
 </project>
