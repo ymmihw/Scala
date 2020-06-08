@@ -35,6 +35,12 @@
             <version>3.3.0-SNAP2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.scalamock</groupId>
+            <artifactId>scalamock_2.13</artifactId>
+            <version>4.4.0</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     <build>
         <pluginManagement>
@@ -62,5 +68,6 @@
         <module>scala-tail-recursion</module>
         <module>scala-lazy-val</module>
         <module>scala-partial-function</module>
+        <module>scala-test-intro</module>
     </modules>
 </project>
