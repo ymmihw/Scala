@@ -1,6 +1,5 @@
 package com.ymmihw.scala
 
-import org.junit.Test
 import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec;
 
