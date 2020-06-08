@@ -61,5 +61,6 @@
         <module>scala-tuples</module>
         <module>scala-tail-recursion</module>
         <module>scala-lazy-val</module>
+        <module>scala-partial-function</module>
     </modules>
 </project>
