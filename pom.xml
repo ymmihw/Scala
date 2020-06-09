@@ -69,6 +69,6 @@
         <module>scala-lazy-val</module>
         <module>scala-partial-function</module>
         <module>scala-test-intro</module>
-        <module>scala-for</module>
+        <module>scala-for-loops</module>
     </modules>
 </project>
