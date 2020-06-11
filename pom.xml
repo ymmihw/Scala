@@ -72,5 +72,6 @@
         <module>scala-for-loops</module>
         <module>scala-sorting</module>
         <module>scala-extractor-object</module>
+        <module>scala-for-comprehension</module>
     </modules>
 </project>

@@ -12,3 +12,4 @@ scala-test-intro | [Introduction to Testing With ScalaTest](https://www.baeldung
 scala-for-loops | [For Loops in Scala](https://www.baeldung.com/scala/for-loops)
 scala-sorting | [A Guide to Sorting in Scala](https://www.baeldung.com/scala/sorting)
 scala-extractor-object | [An Introduction to Scala Extractor Objects](https://www.baeldung.com/scala/extractor-objects)
+scala-for-comprehension | [A Comprehensive Guide to For-Comprehension in Scala](https://www.baeldung.com/scala/for-comprehension)
