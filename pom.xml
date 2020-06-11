@@ -70,5 +70,6 @@
         <module>scala-partial-function</module>
         <module>scala-test-intro</module>
         <module>scala-for-loops</module>
+        <module>scala-sorting</module>
     </modules>
 </project>

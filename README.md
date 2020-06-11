@@ -10,3 +10,4 @@ scala-lazy-val | [Guide to lazy val in Scala](https://www.baeldung.com/scala/laz
 scala-partial-function | [Partial Functions in Scala](https://www.baeldung.com/scala/partial-functions)
 scala-test-intro | [Introduction to Testing With ScalaTest](https://www.baeldung.com/scala/scalatest)
 scala-for-loops | [For Loops in Scala](https://www.baeldung.com/scala/for-loops)
+scala-sorting | [A Guide to Sorting in Scala](https://www.baeldung.com/scala/sorting)
