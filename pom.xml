@@ -73,5 +73,6 @@
         <module>scala-sorting</module>
         <module>scala-extractor-object</module>
         <module>scala-for-comprehension</module>
+        <module>scala-traits</module>
     </modules>
 </project>
