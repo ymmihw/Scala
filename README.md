@@ -14,3 +14,4 @@ scala-sorting | [A Guide to Sorting in Scala](https://www.baeldung.com/scala/sor
 scala-extractor-object | [An Introduction to Scala Extractor Objects](https://www.baeldung.com/scala/extractor-objects)
 scala-for-comprehension | [A Comprehensive Guide to For-Comprehension in Scala](https://www.baeldung.com/scala/for-comprehension)
 scala-traits | [Introduction to Traits in Scala](https://www.baeldung.com/scala/traits)
+scala-exception-handling | [Exception Handling in Scala](https://www.baeldung.com/scala/exception-handling)
