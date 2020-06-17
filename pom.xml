@@ -75,5 +75,6 @@
         <module>scala-for-comprehension</module>
         <module>scala-traits</module>
         <module>scala-exception-handling</module>
+        <module>scala-pattern-matching</module>
     </modules>
 </project>

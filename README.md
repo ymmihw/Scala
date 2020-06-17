@@ -15,3 +15,4 @@ scala-extractor-object | [An Introduction to Scala Extractor Objects](https://ww
 scala-for-comprehension | [A Comprehensive Guide to For-Comprehension in Scala](https://www.baeldung.com/scala/for-comprehension)
 scala-traits | [Introduction to Traits in Scala](https://www.baeldung.com/scala/traits)
 scala-exception-handling | [Exception Handling in Scala](https://www.baeldung.com/scala/exception-handling)
+scala-pattern-matching | [Pattern Matching in Scala](https://www.baeldung.com/scala/pattern-matching)
