@@ -77,5 +77,6 @@
         <module>scala-exception-handling</module>
         <module>scala-pattern-matching</module>
         <module>scala-currying</module>
+        <module>scala-functions-methods</module>
     </modules>
 </project>

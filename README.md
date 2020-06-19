@@ -16,4 +16,5 @@ scala-for-comprehension | [A Comprehensive Guide to For-Comprehension in Scala](
 scala-traits | [Introduction to Traits in Scala](https://www.baeldung.com/scala/traits)
 scala-exception-handling | [Exception Handling in Scala](https://www.baeldung.com/scala/exception-handling)
 scala-pattern-matching | [Pattern Matching in Scala](https://www.baeldung.com/scala/pattern-matching)
+scala-functions-methods | [Functions and Methods in Scala](https://www.baeldung.com/scala/functions-methods)
 scala-currying | [Currying in Scala](https://www.baeldung.com/scala/currying)
