@@ -79,5 +79,6 @@
         <module>scala-currying</module>
         <module>scala-functions-methods</module>
         <module>scala-defvarval</module>
+        <module>scala-enumeration</module>
     </modules>
 </project>
