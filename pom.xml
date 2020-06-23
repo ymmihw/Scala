@@ -78,5 +78,6 @@
         <module>scala-pattern-matching</module>
         <module>scala-currying</module>
         <module>scala-functions-methods</module>
+        <module>scala-defvarval</module>
     </modules>
 </project>

@@ -18,3 +18,4 @@ scala-exception-handling | [Exception Handling in Scala](https://www.baeldung.co
 scala-pattern-matching | [Pattern Matching in Scala](https://www.baeldung.com/scala/pattern-matching)
 scala-functions-methods | [Functions and Methods in Scala](https://www.baeldung.com/scala/functions-methods)
 scala-currying | [Currying in Scala](https://www.baeldung.com/scala/currying)
+scala-defvarval | [Def, Var & Val in Scala](https://www.baeldung.com/scala/def-var-val)
