@@ -80,5 +80,6 @@
         <module>scala-functions-methods</module>
         <module>scala-defvarval</module>
         <module>scala-enumeration</module>
+        <module>scala-variances</module>
     </modules>
 </project>

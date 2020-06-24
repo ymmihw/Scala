@@ -20,3 +20,4 @@ scala-functions-methods | [Functions and Methods in Scala](https://www.baeldung.
 scala-currying | [Currying in Scala](https://www.baeldung.com/scala/currying)
 scala-defvarval | [Def, Var & Val in Scala](https://www.baeldung.com/scala/def-var-val)
 scala-enumeration | [Guide to Scala Enumerations](https://www.baeldung.com/scala/enumerations)
+scala-variances | [Variances in Scala](https://www.baeldung.com/scala/variances)
