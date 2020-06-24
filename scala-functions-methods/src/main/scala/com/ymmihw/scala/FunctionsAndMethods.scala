@@ -1,4 +1,4 @@
-package com.baeldung.scala.functionsandmethods
+package com.ymmihw.scala
 
 import scala.annotation.tailrec
 

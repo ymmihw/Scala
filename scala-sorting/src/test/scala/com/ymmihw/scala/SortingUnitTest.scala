@@ -1,4 +1,4 @@
-package com.baeldung.scala.sorting
+package com.ymmihw.scala
 
 import org.junit.Test
 import org.scalatest.matchers.should.Matchers

@@ -1,4 +1,4 @@
-package com.baeldung.scala
+package com.ymmihw.scala
 
 // Case Class
 abstract class Animal

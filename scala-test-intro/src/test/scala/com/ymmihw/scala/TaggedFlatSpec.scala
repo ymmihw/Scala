@@ -1,10 +1,10 @@
-package com.baeldung.scala.scalatest
+package com.ymmihw.scala
 
 import org.scalatest.Tag
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
 
-object BaeldungJavaTag extends Tag("com.baeldung.scala.scalatest.BaeldungJavaTag")
+object BaeldungJavaTag extends Tag("com.ymmihw.scala.BaeldungJavaTag")
 
 class TaggedFlatSpec extends AnyFlatSpec with Matchers {
 

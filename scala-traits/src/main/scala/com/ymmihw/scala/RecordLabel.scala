@@ -1,3 +1,3 @@
-package com.baeldung.scala.traits
+package com.ymmihw.scala
 
 class RecordLabel

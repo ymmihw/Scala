@@ -1,4 +1,4 @@
-package com.baeldung.scala.traits
+package com.ymmihw.scala
 
 trait Composition extends Orchestration with Mixing {
   var composer: String

@@ -1,4 +1,4 @@
-package com.baeldung.scala.exceptionhandling
+package com.ymmihw.scala
 
 object CalculatorExceptions {
   class IntOverflowException extends RuntimeException

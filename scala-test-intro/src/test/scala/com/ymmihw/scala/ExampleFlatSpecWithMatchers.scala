@@ -1,4 +1,4 @@
-package com.baeldung.scala.scalatest
+package com.ymmihw.scala
 
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalactic.StringNormalizations._

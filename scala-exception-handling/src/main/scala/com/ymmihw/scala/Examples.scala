@@ -1,4 +1,4 @@
-package com.baeldung.scala.exceptionhandling
+package com.ymmihw.scala
 
 import scala.util.{Try, Success, Failure}
 import scala.util.control.Exception._

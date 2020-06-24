@@ -1,4 +1,4 @@
-package com.baeldung.scala.traits
+package com.ymmihw.scala
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

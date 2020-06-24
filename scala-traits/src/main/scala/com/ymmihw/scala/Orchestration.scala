@@ -1,4 +1,4 @@
-package com.baeldung.scala.traits
+package com.ymmihw.scala
 
 trait Orchestration {
   var orchestra: String

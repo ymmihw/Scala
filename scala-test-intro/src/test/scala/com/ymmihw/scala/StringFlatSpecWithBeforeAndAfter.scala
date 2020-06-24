@@ -1,4 +1,4 @@
-package com.baeldung.scala.scalatest
+package com.ymmihw.scala
 
 import org.scalatest._
 import org.scalatest.flatspec.AnyFlatSpec
