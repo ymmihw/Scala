@@ -1,4 +1,4 @@
-package com.baeldung.scala.enumerations
+package com.ymmihw.scala
 
 object Fingers extends Enumeration {
   type Finger = Value

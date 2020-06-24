@@ -1,6 +1,6 @@
-package com.baeldung.scala.enumerations
+package com.ymmihw.scala
 
-import com.baeldung.scala.enumerations.Fingers._
+import com.ymmihw.scala.Fingers._
 import org.junit.Assert.assertTrue
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertEquals
