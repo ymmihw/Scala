@@ -83,5 +83,6 @@
         <module>scala-variances</module>
         <module>scala-enrich-classe-with-trait</module>
         <module>scala-operators</module>
+        <module>scala-implicit-classes</module>
     </modules>
 </project>

@@ -23,3 +23,4 @@ scala-enumeration | [Guide to Scala Enumerations](https://www.baeldung.com/scala
 scala-variances | [Variances in Scala](https://www.baeldung.com/scala/variances)
 scala-enrich-classe-with-trait | [Class Composition with Mixins](https://www.baeldung.com/scala/class-composition-mixins)
 scala-operators | [Introduction to Scala Operators](https://www.baeldung.com/scala/operators-intro)
+scala-implicit-classes | [Implicit Classes](https://www.baeldung.com/scala/implicit-classes)
