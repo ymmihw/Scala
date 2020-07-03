@@ -22,3 +22,4 @@ scala-defvarval | [Def, Var & Val in Scala](https://www.baeldung.com/scala/def-v
 scala-enumeration | [Guide to Scala Enumerations](https://www.baeldung.com/scala/enumerations)
 scala-variances | [Variances in Scala](https://www.baeldung.com/scala/variances)
 scala-enrich-classe-with-trait | [Class Composition with Mixins](https://www.baeldung.com/scala/class-composition-mixins)
+scala-operators | [Introduction to Scala Operators](https://www.baeldung.com/scala/operators-intro)

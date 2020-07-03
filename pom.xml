@@ -82,5 +82,6 @@
         <module>scala-enumeration</module>
         <module>scala-variances</module>
         <module>scala-enrich-classe-with-trait</module>
+        <module>scala-operators</module>
     </modules>
 </project>
