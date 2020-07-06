@@ -84,5 +84,6 @@
         <module>scala-enrich-classe-with-trait</module>
         <module>scala-operators</module>
         <module>scala-implicit-classes</module>
+        <module>scala-string-interpolation</module>
     </modules>
 </project>
