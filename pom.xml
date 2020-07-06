@@ -85,5 +85,6 @@
         <module>scala-operators</module>
         <module>scala-implicit-classes</module>
         <module>scala-string-interpolation</module>
+        <module>scala-file-io</module>
     </modules>
 </project>

@@ -25,3 +25,4 @@ scala-enrich-classe-with-trait | [Class Composition with Mixins](https://www.bae
 scala-operators | [Introduction to Scala Operators](https://www.baeldung.com/scala/operators-intro)
 scala-implicit-classes | [Implicit Classes](https://www.baeldung.com/scala/implicit-classes)
 scala-string-interpolation | [String Interpolation in Scala](https://www.baeldung.com/scala/string-interpolation)
+scala-file-io | [File IO in Scala](https://www.baeldung.com/scala/file-io)
