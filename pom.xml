@@ -86,5 +86,6 @@
         <module>scala-implicit-classes</module>
         <module>scala-string-interpolation</module>
         <module>scala-file-io</module>
+        <module>scala-implicit-conversions</module>
     </modules>
 </project>
