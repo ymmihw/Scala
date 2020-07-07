@@ -88,5 +88,6 @@
         <module>scala-file-io</module>
         <module>scala-implicit-conversions</module>
         <module>scala-future-promise</module>
+        <module>scala-generics-basics</module>
     </modules>
 </project>

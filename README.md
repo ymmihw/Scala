@@ -28,3 +28,4 @@ scala-string-interpolation | [String Interpolation in Scala](https://www.baeldun
 scala-file-io | [File IO in Scala](https://www.baeldung.com/scala/file-io)
 scala-implicit-conversions | [Implicit Conversions](https://www.baeldung.com/scala/implicit-conversions)
 scala-future-promise | [Futures and Promises in Scala](https://www.baeldung.com/scala/futures-promises)
+scala-generics-basics | [Basics of Generics in Scala](https://www.baeldung.com/scala/generics-basics)
