@@ -87,5 +87,6 @@
         <module>scala-string-interpolation</module>
         <module>scala-file-io</module>
         <module>scala-implicit-conversions</module>
+        <module>scala-future-promise</module>
     </modules>
 </project>

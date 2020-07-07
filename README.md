@@ -27,3 +27,4 @@ scala-implicit-classes | [Implicit Classes](https://www.baeldung.com/scala/impli
 scala-string-interpolation | [String Interpolation in Scala](https://www.baeldung.com/scala/string-interpolation)
 scala-file-io | [File IO in Scala](https://www.baeldung.com/scala/file-io)
 scala-implicit-conversions | [Implicit Conversions](https://www.baeldung.com/scala/implicit-conversions)
+scala-future-promise | [Futures and Promises in Scala](https://www.baeldung.com/scala/futures-promises)
