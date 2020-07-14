@@ -89,5 +89,6 @@
         <module>scala-implicit-conversions</module>
         <module>scala-future-promise</module>
         <module>scala-generics-basics</module>
+        <module>scala-underscore</module>
     </modules>
 </project>
